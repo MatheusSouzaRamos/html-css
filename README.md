@@ -3,4 +3,4 @@
 
 Links:
 
-<a href="https://matheussouzaramos.github.io/html-css/exercicios/ex001/">Exercicio 001</a>
+<a href="https://matheussouzaramos.github.io/html-css/exercicios/ex001/" target="_blank">Exercicio 001</a>
